@@ -27,3 +27,6 @@
 
 ``git push``
 
+# How to clone
+
+``git clone https://github.com/shiumanizar/gitlearn.git``
