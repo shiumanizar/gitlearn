@@ -10,5 +10,20 @@
 
 ``git init``
 
+#How to add a remote repository
+#Create a repository in GitHub
 
+``git remote add origin my_awesome_new_remote_repo``
+
+``git branch -M main``
+
+``git push -u origin main``
+
+#How to add files
+
+``git add .``
+
+``git commit -m "message"``
+
+``git push``
 
