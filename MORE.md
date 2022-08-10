@@ -24,6 +24,14 @@ https://www.codeinwp.com/blog/tailwind-css-tutorial/
 ### Video
 https://www.udemy.com/course/tailwindcss-2-learn-tailwindcss-for-beginners/
 
+### Online Playground
+
+#### Simple
+https://play.tailwindcss.com/
+
+#### Advanced
+https://codesandbox.io/s/tailwind-css-playground-kkkzc
+
 ## Statamic Tut (important 4)
 
 ### written
@@ -37,6 +45,19 @@ https://statamictutorials.com/course/build-a-website-from-scratch-with-statamic-
 ### Video 
 https://www.classcentral.com/course/youtube-laravel-fundamentals-90159/classroom
 
+## Markdown (optinal)
+
+### Syntax & Written
+https://www.markdownguide.org/basic-syntax/
+https://agea.github.io/tutorial.md/
+
+### Online Pay Ground
+
+#### Simple
+https://markdownlivepreview.com/
+
+#### Advanced
+https://stackedit.io/app#
 
 # Contact
 
