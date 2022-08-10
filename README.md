@@ -27,5 +27,4 @@
 
 ``git push``
 
-
-[For additional learnings check the MORE.md file](/MORE.md)
+[For the selected devStack and additional learnings check the MORE.md file](/MORE.md)
