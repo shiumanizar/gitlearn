@@ -27,10 +27,5 @@
 
 ``git push``
 
-# Tutorials
 
-Website Tut
-https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners
-
-Video Tut
-https://www.simplilearn.com/tutorials/git-tutorial
+[For additional learnings check the MORE.md file](/MORE.md)
