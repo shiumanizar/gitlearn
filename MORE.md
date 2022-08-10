@@ -48,8 +48,8 @@ https://www.classcentral.com/course/youtube-laravel-fundamentals-90159/classroom
 ## Markdown (optinal)
 
 ### Syntax & Written
-https://www.markdownguide.org/basic-syntax/
-https://agea.github.io/tutorial.md/
+- https://www.markdownguide.org/basic-syntax/
+- https://agea.github.io/tutorial.md/
 
 ### Online Pay Ground
 
