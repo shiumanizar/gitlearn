@@ -1,4 +1,4 @@
-# After installing git do these global configurations
+#After installing git do these global configurations
 
 ``git config --global user.name "YOUR_USERNAME"``
 
@@ -6,12 +6,12 @@
 
 ``git config --global --list``
 
-# After creaating a folder and inside the folder; initializing git
+#After creaating a folder and inside the folder; initializing git
 
 ``git init``
 
-# How to add a remote repository
-## Create a repository in GitHub
+#How to add a remote repository
+#Create a repository in GitHub
 
 ``git remote add origin my_awesome_new_remote_repo``
 
@@ -19,7 +19,7 @@
 
 ``git push -u origin main``
 
-# How to add files
+#How to add files
 
 ``git add .``
 
